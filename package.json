@@ -1,0 +1,33 @@
+{
+  "name": "get-date-based-on-weekday",
+  "version": "1.0.0",
+  "description": "Gets the date of provided week number and weekday",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galoberlyn/get-date-based-on-weekday.git"
+  },
+  "keywords": [
+    "date",
+    "get-date",
+    "weekday",
+    "get-date-based-on-weekday",
+    "date getter based on weekday",
+    "week date getter",
+    "get week date"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts",
+    "build": "tsc -p ."
+  },
+  "author": "Galo Garlejo <github.com/galoberlyn>",
+  "license": "MIT",
+  "files": ["example/*", "lib/*"]
+}
