@@ -29,5 +29,5 @@
   },
   "author": "Galo Garlejo <github.com/galoberlyn>",
   "license": "MIT",
-  "files": ["example/*", "lib/*"]
+  "files": ["example/*", "lib/*", "index.js"]
 }
