@@ -1,6 +1,6 @@
 {
   "name": "get-date-based-on-weekday",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gets the date of provided week number and weekday",
   "main": "index.js",
   "dependencies": {},
