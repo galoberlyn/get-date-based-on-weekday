@@ -1,6 +1,6 @@
 {
   "name": "get-date-based-on-weekday",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gets the date of provided week number and weekday",
   "main": "index.js",
   "dependencies": {},
@@ -28,10 +28,5 @@
     "build": "tsc -p ."
   },
   "author": "Galo Garlejo <github.com/galoberlyn>",
-  "license": "MIT",
-  "files": [
-    "example/*",
-    "lib/*",
-    "index.js"
-  ]
+  "license": "MIT"
 }
